@@ -1,5 +1,5 @@
 line 1 added by remote repo
-
+A new line 2 added by remote repo
 line 3 added by remote repo
 
 
