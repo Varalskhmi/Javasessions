@@ -1,7 +1,7 @@
 updated line 1 added by remote repo-
 A new line 2 added by remote repo
 line 3 added by remote repo
-
+line 4 code added by remote user.
 
 
 Line 7 added by Local master 
