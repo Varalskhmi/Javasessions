@@ -1,8 +1,10 @@
+
 line 1 added by remote repo
 line 2 added by branch test1
+
+
 line 3 added by remote repo
+line 4 code added by remote user.
 
 
-
-
-Line 8 added by Local master 
+Line 7 added by Local master 
